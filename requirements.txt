@@ -1,0 +1,6 @@
+aiogram
+vk-api
+supabase
+python-dotenv
+cryptography
+Pillow
